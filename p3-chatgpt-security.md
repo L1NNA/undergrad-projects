@@ -1,7 +1,6 @@
 # Adversarial Attacks Against Generative AIs such as ChatGPT
 
 ## Project Description
-This project plan lays out the step-by-step process for detecting vulnerabilities in firmware images, including data collection, tool evaluation, and the intended timeline for completion. Adjustments can be made based on the progress and outcomes at each stage.
 This project spans 12 weeks and focuses on exploring and understanding adversarial attacks specifically targeted at generative AIs such as ChatGPT. The aim is to study vulnerabilities, develop attack strategies, and propose defense mechanisms to enhance the robustness of these models against adversarial manipulation.
 
 ## Tasks
