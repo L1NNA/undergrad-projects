@@ -1,4 +1,4 @@
-# Adversarial Attacks Against Generative AIs like ChatGPT
+# Adversarial Attacks Against Generative AIs such as ChatGPT
 
 ## Project Description
 This project plan lays out the step-by-step process for detecting vulnerabilities in firmware images, including data collection, tool evaluation, and the intended timeline for completion. Adjustments can be made based on the progress and outcomes at each stage.
